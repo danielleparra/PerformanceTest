@@ -1,0 +1,4 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/",181,12,4100,4131,415,10978,75505,12.03
+"POST","//p/login?txtUrl=%2F",20,12,6900,8149,2769,13558,39561,1.33
+"None","Total",201,24,4400,4531,415,13558,71928,13.35
